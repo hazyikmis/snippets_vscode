@@ -47,5 +47,12 @@
       "export default ${0:MyComponent};"
     ],
     "description": "React Native simple component by h@lo"
+  },
+
+  "h@lo const Arrow Function": {
+    "scope": "javascript,typescript",
+    "prefix": "af",
+    "body": ["const ${0:f} = () => {", "\t", "}"],
+    "description": "basic arraf function by h@lo"
   }
 }
